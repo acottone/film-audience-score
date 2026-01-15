@@ -4,7 +4,7 @@
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.0+-red.svg)](https://streamlit.io/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-**Filmlytics** is an advanced machine learning system that predicts movie audience scores before release by combining multiple data sources and state-of-the-art models. Built for studios, marketers, and film researchers to make data-driven decisions.
+**Filmlytics** is a system that predicts movie audience scores by combining multiple data sources and state-of-the-art models. 
 
 Team: Angelina Cottone, Matthew Ward, Clara Wei, Dylan Sidhu, Nidhi Deshmukh
 
@@ -13,7 +13,7 @@ Team: Angelina Cottone, Matthew Ward, Clara Wei, Dylan Sidhu, Nidhi Deshmukh
 ## Project Overview
 
 ### What It Does
-Filmlytics predicts how audiences will rate films **before release** using:
+Filmlytics predicts how audiences will rate films using:
 - **66,000+ films** from 2010-2025
 - **150+ engineered features** from multiple data sources
 - **Ensemble of 3 ML models** (GNN, KGCN, XGBoost)
