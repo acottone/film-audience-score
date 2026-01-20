@@ -393,7 +393,7 @@ Developed by a 5-person team for STA 160.
 
 **Angelina Cottone, Matthew Ward, Clara Wei, Dylan Sidhu, Nidhi Deshmukh**
 
-*Course*: STA 160 - Statistical Data Science
+*Course*: STA 160 - Practice in Data Science
 
 *Institution*: University of California, Davis
 
@@ -408,11 +408,6 @@ Developed by a 5-person team for STA 160.
 - The Movie Database (TMDB): https://www.themoviedb.org/
 - Rotten Tomatoes: https://www.rottentomatoes.com/
 - YouTube Data API: https://developers.google.com/youtube/v3
-
-### Documentation
-
-- Project Report: `Team15_ProjectReport_STA160.pdf`
-- Deployment Guide: `Reproducible Deployment Document.pdf`
 
 ---
 *Last Updated: January 2026*
